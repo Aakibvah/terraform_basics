@@ -8,4 +8,3 @@ run commands
 4.  terraform plan - it will show all the resources which will be created knows as change auytomation
 5.  terraform apply - it will apply all the configuration and provision the infrastructure.
 
-try to use cloud-init to provision VMs with data and configuration instead of user_data.
